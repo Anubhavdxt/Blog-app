@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "James",
+    "email": "jms@xyz.com",
+    "password": "abc123",
+    "posts": [
+      {
+        "id": 1,
+        "title": "My first Blog",
+        "category": 1,
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero dolorum nam beatae eius totam sed laborum, quod consequuntur assumenda ex reiciendis, illum placeat facere vitae fugit neque nemo. Ipsa sed quasi repudiandae laboriosam voluptatum et nostrum, illo alias illum consectetur expedita minima aut officia labore inventore eveniet quaerat tempore suscipit debitis quisquam impedit! Natus, veritatis vitae ut voluptatibus eum totam cupiditate repellat eaque delectus optio animi incidunt beatae laudantium minus temporibus non molestiae, similique error quas nulla fugiat? Amet, voluptatem perferendis? Dolorem odit tempore enim eius voluptatem laudantium beatae quia veniam velit sapiente repudiandae, cum modi hic, saepe maiores esse."
+      },
+      {
+        "id": 2,
+        "title": "My Second Blog",
+        "category": 2,
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero dolorum nam beatae eius totam sed laborum, quod consequuntur assumenda ex reiciendis, illum placeat facere vitae fugit neque nemo. Ipsa sed quasi repudiandae laboriosam voluptatum et nostrum, illo alias illum consectetur expedita minima aut officia labore inventore eveniet quaerat tempore suscipit debitis quisquam impedit! Natus, veritatis vitae ut voluptatibus eum totam cupiditate repellat eaque delectus optio animi incidunt beatae laudantium minus temporibus non molestiae, similique error quas nulla fugiat? Amet, voluptatem perferendis? Dolorem odit tempore enim eius voluptatem laudantium beatae quia veniam velit sapiente repudiandae, cum modi hic, saepe maiores esse."
+      }
+    ]
+  }
+]
