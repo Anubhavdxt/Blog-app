@@ -1,4 +1,4 @@
-# Blog App ByteLearn Task
+# Blog App
 
 ## Deployed link
 
